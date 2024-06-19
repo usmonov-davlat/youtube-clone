@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: white;
+	border: none;
+	list-style: none;
+	outline: none;
+}
+
+.video-card >iframe {
+    display: none;
+    width: 300px;
+    height: 220px;
+}
